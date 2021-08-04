@@ -1,4 +1,4 @@
-let imagens= document.querySelectorAll('.small_img');
+let imagens= document.querySelectorAll('.img-galeria');
 let modal = document.querySelector('.modal');
 let modalImg = document.querySelector('#modal_img');
 let btClose = document.querySelector('#bt_close');
